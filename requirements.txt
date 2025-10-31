@@ -1,0 +1,6 @@
+streamlit
+pymysql
+opencv-python
+speechrecognition
+pyaudio
+numpy
