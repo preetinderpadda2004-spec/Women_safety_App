@@ -2,5 +2,5 @@ streamlit
 pymysql
 opencv-python
 speechrecognition
-pyaudio
+sounddevice
 numpy
